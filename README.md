@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://learndesk-1.onrender.com/)
 
-![Learnex Logo](./public/Learn_desk_logo.jpeg)
+![Learnex Logo](frontend/public/Learn_Desk_logo.png)
 
 
 **LearnDesk** is a full-stack Learning Management System (LMS) that lets educators create and sell courses while students discover, enroll in, and learn from them. It combines a MERN stack backend with an AI-powered natural-language course search, secure payments, and OTP-based account recovery — all in one platform.
