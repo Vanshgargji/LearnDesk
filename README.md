@@ -213,6 +213,11 @@ learndesk/
 - **Cloudinary for Media**: Offloads video/image storage and delivery instead of self-hosting media files.
 - **Mongoose Population**: Used extensively (`lectures`, `reviews`, `enrolledCourses`) to keep API responses rich without extra round trips.
 
+## 📸 Screenshots
+
+### Login/SignUp Page
+![login/signup Page](frontend/public/Screenshot_2026-07-16_054259.png)
+
 ## 🚀 Future Improvements
 
 ### Short Term
